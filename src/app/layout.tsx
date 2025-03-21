@@ -1,3 +1,6 @@
+import '@/app/global.css';
+import { Geist } from 'next/font/google';
+
 export default function RootLayout({
   children,
 }: {
