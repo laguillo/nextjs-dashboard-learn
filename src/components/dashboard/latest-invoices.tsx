@@ -1,4 +1,3 @@
-import { LatestInvoice } from '@/lib/definitions';
 import { lusitana } from '../ui/fonts';
 import { RefreshCwIcon } from 'lucide-react';
 import Image from 'next/image';
